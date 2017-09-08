@@ -1,0 +1,33 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "Démarrer:",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --bail"
+  },
+  "keywords": [
+    "exercices",
+    "nodejs",
+    "npm init -y"
+  ],
+  "author": "Elie NEHME",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "3.4.1",
+    "mock-require": "2.0.2",
+    "rimraf": "^2.6.1",
+    "sinon": "2.3.1",
+    "stream-equal": "1.0.0",
+    "http-proxy-agent": "^2.0.0",
+    "https-proxy-agent": "^2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Kallikrein/nodejs200.git"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/Kallikrein/nodejs200/issues"
+  },
+  "homepage": "https://gitlab.com/Kallikrein/nodejs200#README"
+}
